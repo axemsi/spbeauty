@@ -23,10 +23,9 @@ const Input = styled.input`
 `;
 
 const SearchIconWrapper = styled.div`
-    background-color: #F8FAFC;
     position: absolute;
-    box-sizing:border-box;
-    right: 10px;  /* Здесь можно добавить отступ от правого края, чтобы сдвинуть иконку левее */
+    box-sizing: border-box;
+    right: 8px;  /* Здесь можно добавить отступ от правого края, чтобы сдвинуть иконку левее */
     top:50%;
     transform: translateY(-50%);
 `;
