@@ -28,17 +28,6 @@ body {
   line-height: 18px;
 }
 
-.text-caption-rg {
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 12px;
-}
-
-.text-rg {
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 18px;
-}
 
 span,
 p,
@@ -52,3 +41,14 @@ input,
   line-height: 18px;
 }
 
+.text-caption-rg {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+}
+
+.text-rg {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+}
